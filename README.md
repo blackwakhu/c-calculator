@@ -1,3 +1,3 @@
 # c-calculator
 this program works like this
-<p>./math [sign] a b</p>
+<p><b>./math [sign] a b</b></p>
